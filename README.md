@@ -1,2 +1,2 @@
 # python_colorSpace
-List of color space those are not available in openCv lib
+List of color space that are not available in openCv lib
